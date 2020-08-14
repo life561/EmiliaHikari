@@ -398,7 +398,7 @@ def list_notes(update, context):
 	note_list = sql.get_all_chat_notes(chat_id)
 
 	for note in note_list:
-		note_name = " ➺ `#{}`\n".format(note.name)
+		note_name = " ➺  `#{}`\n".format(note.name)
 		if len(msg) + len(note_name) > MAX_MESSAGE_LENGTH:
 			send_message(update.effective_message, msg, parse_mode=ParseMode.MARKDOWN)
 			msg = ""
@@ -422,7 +422,7 @@ def list_notes(update, context):
 				chat_name = chat.title
 				msg = tl(update.effective_message, "<b>Catatan di {}:</b>\n").format(chat_name)
 			for note in note_list:
-				note_name = " ➺ <code>#{}</code>\n".format(note.name)
+				note_name = " ➺  <code>#{}</code>\n".format(note.name)
 				if len(msg) + len(note_name) > MAX_MESSAGE_LENGTH:
 					send_message(update.effective_message, msg, parse_mode=ParseMode.MARKDOWN)
 					msg = ""
