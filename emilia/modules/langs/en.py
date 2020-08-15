@@ -34,7 +34,7 @@ Available commands are:
 	"Ada yang bisa saya bantu? 😊": "Is there anything I can help? 😊",
 	"start_text": """
 Hi {}, my name is {}! I am a group manager managed by [my master](tg://user?id={}).
-To get this bot status info and update, you can join our channel [Uzaki Bot News](https://t.me/AnimeChatOfficial)
+To get this bot status info and update, you can join our channel [Uzaki Bot News](https://t.me/UzakiChanNews)
 
 Any issue or need more help?
 Join our group [Uzaki Official Support](https://t.me/AnimeChatOfficial)!
