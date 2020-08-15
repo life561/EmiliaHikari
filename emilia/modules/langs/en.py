@@ -67,7 +67,7 @@ Need a lot of work for [my creator](tg://user?id=388576209) to take me to my pla
 every donation helps and motivates him to make me better.
 
 All donated money will be given to a better VPS to host me, and or some food. \
-He is just an ordinary person, so it will really help him!
+But he is a rich person, so it will not really help him!, Thank you 😁""",
 
 If you really are interested in donating, please visit https://t.me/AnimeChatOfficial, Thank you 😁""",
 	"Kembali": "Back",
