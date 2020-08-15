@@ -68,8 +68,6 @@ every donation helps and motivates him to make me better.
 
 All donated money will be given to a better VPS to host me, and or some food. \
 But he is a rich person, so it will not really help him!, Thank you 😁""",
-
-If you really are interested in donating, please visit https://t.me/AnimeChatOfficial, Thank you 😁""",
 	"Kembali": "Back",
 	"Hubungi saya di PM untuk mendapatkan daftar perintah.": "Contact me in PM to get the list of possible commands.",
 	"Tolong": "Help",
