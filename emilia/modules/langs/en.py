@@ -34,10 +34,10 @@ Available commands are:
 	"Ada yang bisa saya bantu? 😊": "Is there anything I can help? 😊",
 	"start_text": """
 Hi {}, my name is {}! I am a group manager managed by [my master](tg://user?id={}).
-To get this bot status info and update, you can join our channel [Ayra's Bot News](https://t.me/AyraBotNews)
+To get this bot status info and update, you can join our channel [Uzaki Bot News](https://t.me/AnimeChatOfficial)
 
 Any issue or need more help?
-Join our group [Emilia Official Support](https://t.me/EmiliaOfficial)!
+Join our group [Uzaki Official Support](https://t.me/AnimeChatOfficial)!
 
 You can find the list of available commands with /help.
 
@@ -69,7 +69,7 @@ every donation helps and motivates him to make me better.
 All donated money will be given to a better VPS to host me, and or some food. \
 He is just an ordinary person, so it will really help him!
 
-If you really are interested in donating, please visit ayrahikari.github.io/donations.html, Thank you 😁""",
+If you really are interested in donating, please visit https://t.me/AnimeChatOfficial, Thank you 😁""",
 	"Kembali": "Back",
 	"Hubungi saya di PM untuk mendapatkan daftar perintah.": "Contact me in PM to get the list of possible commands.",
 	"Tolong": "Help",
