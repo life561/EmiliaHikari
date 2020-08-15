@@ -5,10 +5,10 @@ id = {
 # main stuff
 	"start_text": """
 Hai {}, nama saya {}! Saya seorang manajer grup yang dikelola oleh [master saya ini](tg://user?id={}).
-Untuk mendapatkan info status dan update bot ini, anda dapat bergabung dengan channel kami [Ayra's Bot News](https://t.me/AyraBotNews)
+Untuk mendapatkan info status dan update bot ini, anda dapat bergabung dengan channel kami [Uzaki Bot News](https://t.me/UzakiBotNews)
 
 Ada masalah atau butuh bantuan lebih?
-Gabung grup [Emilia Official Support](https://t.me/EmiliaOfficial)!
+Gabung grup [Uzaki Official Support](https://t.me/AnimeChatOfficial)!
 
 Anda dapat menemukan daftar perintah yang tersedia dengan /help.
 
@@ -41,7 +41,7 @@ setiap sumbangan membantu dan memotivasi dia untuk membuat saya lebih baik.
 Semua uang sumbangan akan diberikan ke VPS yang lebih baik untuk menjadi tuan rumah saya, dan atau beberapa makanan. \
 Dia hanya orang biasa, jadi akan sangat membantu dia!
 
-Jika anda memang berminat untuk donate, silahkan kunjungi ayrahikari.github.io/donations.html, Terima kasih 😁""",
+Jika anda memang berminat untuk donate, silahkan kunjungi https://t.me/UzakiBotNews, Terima kasih 😁""",
 	
 # Help modules
 	"language_help": """Tidak semua grup berbicara bahasa Indonesia; beberapa grup lebih suka Emilia menanggapi dalam bahasa mereka sendiri.
